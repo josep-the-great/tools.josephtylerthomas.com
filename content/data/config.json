@@ -12,7 +12,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "TechSpec",
                 "url": "/about",
                 "underline": "hover"
             },
